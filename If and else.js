@@ -1,4 +1,4 @@
-function digaOláouTchau(frase) {
+function cumprimentarUsuario(frase) {
     if (frase === "Olá") {
         console.log("Olá, tudo bem?")
     } else {
@@ -7,4 +7,4 @@ function digaOláouTchau(frase) {
 
 }
 
-digaOláouTchau("Tchau");
+cumprimentarUsuario("Tchau");
