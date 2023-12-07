@@ -1,4 +1,4 @@
-function cumprimentarsuario(frase) {
+function cumprimentarUsuario(frase) {
     if (frase === "Olá") {
         console.log("Olá, tudo bem?")
     } else {
