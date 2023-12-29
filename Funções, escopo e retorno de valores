@@ -1,0 +1,14 @@
+/*
+
+Crie uma função chamada imprimir_global que imprime o valor de uma variável global chamada variavel_global. 
+Em seguida, defina variavel_global fora da função e chame imprimir_global para ver se a função pode acessar a variável global.
+
+*/
+
+let variavel_global = "Sim, esta é a variavel global";
+
+function imprimir_global(){
+    console.log(variavel_global);
+}
+
+imprimir_global();
