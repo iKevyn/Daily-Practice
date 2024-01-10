@@ -3,6 +3,9 @@ Crie um objeto que represente um contato na agenda, com propriedades como nome, 
 Adicione um método que exiba todas as informações do contato de forma formatada.
 */
 
+
+/*Aqui realizei o pedido do exercicio*/
+
 let agenda = {
     nome: "Anakin",
     numeroTelefone: 646466464,
@@ -11,6 +14,8 @@ let agenda = {
         return `Nome: ${this.nome} Número: ${this.numeroTelefone} email: ${this.email}`;
     }
 }
+
+/*Aqui resolvi imprementar um pedido seletivo, sendo assim é possivel escolher exibir todas as informações ou uma especifica*/
 
 function ver(info){
     if (info === "nome") {
