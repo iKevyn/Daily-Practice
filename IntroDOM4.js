@@ -10,6 +10,3 @@ renameHeader.innerHTML = "Novo Titulo";
 let novoParagrafo = document.createElement("p");
 novoParagrafo.innerHTML = "Este é um novo parágrafo";
 document.getElementById("content").appendChild(novoParagrafo);
-
-//Mude a cor de fundo do elemento com classe "highlight" para vermelho (#FF0000).
-//Aumente o tamanho da fonte do elemento com id "title" para 20 pixels.
