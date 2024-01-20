@@ -1,0 +1,29 @@
+body {
+    background-color: rgba(64, 216, 185, 0.777);
+}
+
+h1 {
+    color: aliceblue;
+}
+
+h3 {
+    color: aliceblue;
+}
+
+button {
+    height: 40px;
+    width: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(27, 26, 26);
+}
+
+.say {
+    background-color: greenyellow;
+    border-radius: 10px;
+    border-color: greenyellow;
+}
+
+.say#Bye {
+    background-color: yellow;
+    border-color: yellow;
+}
