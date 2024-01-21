@@ -1,0 +1,19 @@
+body {
+    background-color: whitesmoke;
+}
+
+button {
+    background-color: rgb(54, 255, 9);
+    color: aliceblue;
+    border-radius: 6px;
+    height: 23px;
+    width: 50px;
+}
+
+h1 {
+    color: black;
+}
+
+input {
+    background-color: #f1f1f1;
+}
